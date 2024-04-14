@@ -1,0 +1,47 @@
+.cards-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 113px;
+    margin: -100px;
+}
+.card {
+    margin: 30px;
+}
+.card-text {
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.add {
+    font-size: 234px;
+    color: rgb(86, 125, 243);
+    text-align: center;
+    margin: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Autores {
+    text-align: center;
+}
+.cards-container1{
+    display: flex;
+    justify-content: space-between;
+    padding: 113px;
+    margin: -100px;
+}
+.card1 {
+    margin: 30px;
+}
+.obra {
+    text-align: center;
+}
+.card-container2{
+    display: flex;
+    justify-content: space-between;
+    padding: 113px;
+    margin: -100px;
+}
+.card2 {
+    margin: 30px;
+}
+.image {
+    height: 120px;
+}
